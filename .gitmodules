@@ -1,6 +1,0 @@
-[submodule "plugins/plugins/ipynb"]
-	path = plugins/plugins/ipynb
-	url = git://github.com/danielfrg/pelican-ipynb.git
-[submodule "themes/pelican-blueidea"]
-	path = themes/pelican-blueidea
-	url = https://github.com/nasskach/pelican-blueidea.git
